@@ -10,5 +10,5 @@ This article shows you how to make waffles.
 7. Take the waffles out when the wafflemaker starts steaming or the light turns green.
 8. *Optional*: Serve with maple syrup and butter.
 
-#How to make Pancakes
+# How to make Pancakes
 This article shows you how to make pancakes.
